@@ -1,4 +1,4 @@
-# AirbnbSmartPricingFeature
+# Airbnb Smart Pricing Feature
 
 The following two paragraphs explain how the Airbnb Smart Pricing feature works and what hosts need to do to make it work.
 
